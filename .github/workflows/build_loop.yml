@@ -41,16 +41,7 @@ jobs:
           omnipod_cage \
           dexcom_sage \
           dexcom_upload_readings \
-          #future_carbs_4h \
-          #low_carb_limit \
-          #high_carb_limit \
-          #no_auth \
-          #override_sens \
-          #limit_loop_cycle_time \
           now_line \
-          #lnl_icon \
-          #customtypeone_looppatches \
-          #2002 \
           algorithm_experiments \
           testflight_expiration_warning
 
